@@ -5,23 +5,16 @@ A simple and interactive Python program to validate coupon codes, check discount
 🚀 Features
 
 Validate coupon codes instantly
-
 Checks expiry, minimum cart amount, and usage
-
 Supports free-shipping coupons
-
 Shows available coupons based on cart value
-
 Interactive CLI menu
 
 📦 How It Works
 
 Users can:
-
 Enter a coupon to check if it’s valid
-
 View coupons available for their cart amount
-
 List all coupons (used & unused)
 
 Exit the program
@@ -36,16 +29,12 @@ CouponValidator/
 
 📝 Demo Mode
 
-Uncomment this line to run demo tests:
 
 # run_demo()
 
 ✔️ Example Coupons
 
 WELCOME10 – 10% off
-
 SAVE15 – 15% off
-
 FREESHIP – Free shipping
-
 FIRST5 – 5% off
