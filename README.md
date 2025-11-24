@@ -11,12 +11,19 @@ Perfect for learning Python classes, date handling, and interactive CLI applicat
 ⭐ **Features**
 
 ✔ Validate coupon codes with friendly messages
+
 ✔ Check expiry dates automatically
+
 ✔ Prevent reusing coupons
+
 ✔ Supports free-shipping coupons
+
 ✔ Show available coupons based on cart total
+
 ✔ List all coupons (Used / Unused)
+
 ✔ Fully interactive menu-driven interface
+
 ✔ Includes demo mode for quick testing
 
 🛠️ **Technologies / Tools Used**
@@ -28,7 +35,7 @@ Command-Line Interface (CLI)
 
 📥 Installation & Running Steps
 1️⃣ Clone or Download the Project
-git clone https://github.com/your-repo/coupon-validator.git
+git clone https://github.com/varunsaini28/VITyarthi-project-.git
 
 Or simply download the .py file.
 
