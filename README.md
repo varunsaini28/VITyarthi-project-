@@ -1,7 +1,7 @@
 🧾 **Coupon Code Validator**
 
 📌 Project Title
-Coupon Code Validator – Python CLI Application
+Coupon Code Validator – Python  Application
 
 📘 **Overview**
 
